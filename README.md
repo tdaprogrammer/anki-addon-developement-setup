@@ -19,7 +19,7 @@ Now run the project in Pycharm then, go to tools->addons->view files. Keep in mi
 I'll create a folder called "myaddon" and link it with my Pycharm folder path though a symbolink link.
 Because I'm running Windows, open a cmd with administrator privileges and run the command:   
 ```
-mklink /D "C:\Anki\addons21\test" "C:\Users\*your_profile_name*\PycharmProjects\anki-addon\myaddon\src"
+mklink /D "C:\Anki\addons21\test" "C:\Users\your_profile_name\PycharmProjects\anki-addon\myaddon\src"
 ```
 Happy anki addon development!
 
